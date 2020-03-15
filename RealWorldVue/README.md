@@ -31,5 +31,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Build Json Server
 
 ```
-npx json-server --watch db.json
+npm run serve-db
 ```
