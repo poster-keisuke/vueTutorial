@@ -13,7 +13,7 @@ export default {}
 </script>
 
 <style scoped>
-nav {
+.nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
